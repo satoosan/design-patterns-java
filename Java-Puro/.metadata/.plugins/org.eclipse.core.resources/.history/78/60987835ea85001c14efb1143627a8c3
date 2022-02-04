@@ -1,0 +1,10 @@
+package one.digitalinnovation.gof;
+
+/*
+ * Singleton "preguiçoso"
+ * @author satoosan
+ * 
+ */
+public class SingletonLazy {
+
+}

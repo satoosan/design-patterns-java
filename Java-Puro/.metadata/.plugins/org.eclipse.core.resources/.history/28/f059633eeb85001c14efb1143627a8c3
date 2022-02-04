@@ -1,0 +1,22 @@
+package one.digitalinnovation.gof;
+
+/*
+ * Singleton "apressado".
+ * 
+ * @author satoosan
+ * 
+ */
+
+public class SingletonLazyHolder {
+	
+	private static SingletonLazyHolder instancia = new SingletonLazyHolder();
+		
+	public SingletonLazyHolder() {
+		super();
+	}
+	
+	public static SingletonLazyHolder getInstancia() {
+		return instancia;
+	}
+	
+}

@@ -1,0 +1,18 @@
+package one.digitalinnovation.gof;
+
+/*
+ * Singleton "preguiçoso".
+ * 
+ * @author satoosan
+ * 
+ */
+
+public class SingletonLazy {
+	
+	private static SingletonLazy instancia;
+	
+	private SingletonLazy() {
+		// TODO Auto-generated constructor stub
+	}
+	
+}

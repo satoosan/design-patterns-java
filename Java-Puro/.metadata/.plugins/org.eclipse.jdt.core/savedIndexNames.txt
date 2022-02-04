@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+Z:\Documents\github\Portfolio\design-patterns-java\.metadata\.plugins\org.eclipse.jdt.core
+2422301837.index
+1865797976.index
+2410366565.index

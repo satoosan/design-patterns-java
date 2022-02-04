@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\satog\OneDrive\Área de Trabalho\Java-Spring\lab-padroes-projeto-spring"/>
+			<item value="C:\Users\satog\OneDrive\Área de Trabalho\lab-padroes-projeto-spring (1)\lab-padroes-projeto-spring"/>
+			<item value="C:\Users\satog\OneDrive\Área de Trabalho\lab-padroes-projeto-spring\lab-padroes-projeto-spring"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
